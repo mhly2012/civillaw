@@ -4,7 +4,7 @@
 
    <url>
 
-      <loc>https://civillawblank.com/</loc>
+      <loc>"https://civillawblank.com/"</loc>
 
       <lastmod>2021-02-01</lastmod>
 
@@ -16,7 +16,7 @@
 
    <url>
 
-      <loc>https://civillawblank.com/#</loc>
+      <loc>"https://civillawblank.com/#"</loc>
 
       <changefreq>monthly</changefreq>
 
@@ -24,84 +24,84 @@
 
    <url>
 
-      <loc>https://civillawblank.com/#/problems?law=civillaw</loc>
+      <loc>"https://civillawblank.com/#/problems?law=civillaw"</loc>
 
       <changefreq>monthly</changefreq>
 
    </url>
    <url>
 
-      <loc>https://civillawblank.com/#/problems?electricrule&mode=</loc>
+      <loc>"https://civillawblank.com/#/problems?electricrule&mode="</loc>
 
       <changefreq>monthly</changefreq>
 
    </url>
    <url>
 
-      <loc>https://civillawblank.com/#/problems?electricrule&mode=precedent</loc>
+      <loc>"https://civillawblank.com/#/problems?electricrule&mode=precedent"</loc>
 
       <changefreq>monthly</changefreq>
 
    </url>
    <url>
 
-      <loc>https://civillawblank.com/#/problems?civillaw&mode=precedent</loc>
+      <loc>"https://civillawblank.com/#/problems?civillaw&mode=precedent"</loc>
 
       <changefreq>monthly</changefreq>
 
    </url>
    <url>
 
-      <loc>https://civillawblank.com/#/problems?patentlaw&mode=</loc>
+      <loc>"https://civillawblank.com/#/problems?patentlaw&mode="</loc>
 
       <changefreq>monthly</changefreq>
 
    </url>
    <url>
 
-      <loc>https://civillawblank.com/#/problems?patentlaw&mode=precedent</loc>
+      <loc>"https://civillawblank.com/#/problems?patentlaw&mode=precedent"</loc>
 
       <changefreq>monthly</changefreq>
 
    </url>
    <url>
 
-      <loc>https://civillawblank.com/#/problems?electricrule&mode=1</loc>
+      <loc>"https://civillawblank.com/#/problems?electricrule&mode=1"</loc>
 
       <changefreq>monthly</changefreq>
 
    </url>
    <url>
 
-      <loc>https://civillawblank.com/#/problems?civillaw&mode=1</loc>
+      <loc>"https://civillawblank.com/#/problems?civillaw&mode=1"</loc>
 
       <changefreq>monthly</changefreq>
 
    </url>
    <url>
 
-      <loc>https://civillawblank.com/#/problems?patentlaw&mode=1</loc>
+      <loc>"https://civillawblank.com/#/problems?patentlaw&mode=1"</loc>
 
       <changefreq>monthly</changefreq>
 
    </url>
    <url>
 
-      <loc>https://civillawblank.com/#/problems?electricrule&mode=2</loc>
+      <loc>"https://civillawblank.com/#/problems?electricrule&mode=2"</loc>
 
       <changefreq>monthly</changefreq>
 
    </url>
    <url>
 
-      <loc>https://civillawblank.com/#/problems?civillaw&mode=2</loc>
+      <loc>"https://civillawblank.com/#/problems?civillaw&mode=2"</loc>
 
       <changefreq>monthly</changefreq>
 
    </url>
    <url>
 
-      <loc>https://civillawblank.com/#/problems?patentlaw&mode=2</loc>
+      <loc>"https://civillawblank.com/#/problems?patentlaw&mode=2"</loc>
 
       <changefreq>monthly</changefreq>
 
