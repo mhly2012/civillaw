@@ -29,6 +29,84 @@
       <changefreq>monthly</changefreq>
 
    </url>
+   <url>
+
+      <loc>https://civillawblank.com/#/problems?law=electricrule&amp;mode=</loc>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+   <url>
+
+      <loc>https://civillawblank.com/#/problems?law=electricrule&amp;mode=precedent</loc>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+   <url>
+
+      <loc>https://civillawblank.com/#/problems?law=civillaw&amp;mode=precedent</loc>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+   <url>
+
+      <loc>https://civillawblank.com/#/problems?law=patentlaw&amp;mode=</loc>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+   <url>
+
+      <loc>https://civillawblank.com/#/problems?law=patentlaw&amp;mode=precedent</loc>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+   <url>
+
+      <loc>https://civillawblank.com/#/reproblems?law=electricrule&amp;mode=1</loc>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+   <url>
+
+      <loc>https://civillawblank.com/#/reproblems?law=civillaw&amp;mode=1</loc>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+   <url>
+
+      <loc>https://civillawblank.com/#/reproblems?law=patentlaw&amp;mode=1</loc>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+   <url>
+
+      <loc>https://civillawblank.com/#/reproblems?law=electricrule&amp;mode=2</loc>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+   <url>
+
+      <loc>https://civillawblank.com/#/reproblems?law=civillaw&amp;mode=2</loc>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
+   <url>
+
+      <loc>https://civillawblank.com/#/reproblems?law=patentlaw&amp;mode=2</loc>
+
+      <changefreq>monthly</changefreq>
+
+   </url>
 
 </urlset>
+
 
